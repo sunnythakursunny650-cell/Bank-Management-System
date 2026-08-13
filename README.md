@@ -5,7 +5,7 @@ A professional web-based Bank Management System developed using Python, SQLite a
 ## 🚀 Live Application
 
 The project is deployed using Streamlit Community Cloud.
-
+https://student-management-system-yjuogofdt6aksupxj4dzx9.streamlit.app
 ## 📌 Project Overview
 
 This application provides a simple and professional interface for managing bank customer accounts.

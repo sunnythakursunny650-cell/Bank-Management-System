@@ -1583,28 +1583,15 @@ elif option == "🗑️ Delete Account":
 
 st.divider()
 
-st.markdown(
-    """
-    <div class="footer">
+st.markdown("""
+### 🏦 Bank Management System
 
-        🏦 <b>Bank Management System</b>
+**Python + SQLite + Streamlit**
 
-        <br><br>
+Secure Customer Account Management
 
-        Python + SQLite + Streamlit
-
-        <br>
-
-        Secure Customer Account Management
-
-        <br><br>
-
-        Developed by <b>Sunny Thakur</b> 💫
-
-    </div>
-    """,
-    unsafe_allow_html=True
-)
+Developed by **Sunny Thakur** 💫
+""")
 
 
 # =========================================================
